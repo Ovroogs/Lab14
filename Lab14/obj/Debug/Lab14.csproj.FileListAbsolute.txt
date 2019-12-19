@@ -1,0 +1,20 @@
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.csproj.GenerateResource.Cache
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\bin\Debug\lab14.mdb
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\bin\Debug\Lab14.exe
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\bin\Debug\Lab14.pdb
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.exe
+C:\Users\user01\Desktop\Ярик и Игорь\Lab14\obj\Debug\Lab14.pdb
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\bin\Debug\lab14.mdb
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\bin\Debug\Lab14.exe.config
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\bin\Debug\Lab14.exe
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\bin\Debug\Lab14.pdb
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.Form1.resources
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.exe
+D:\Комп\Desktop\С флешки\03.01\Задания\Lab14\obj\Debug\Lab14.pdb
